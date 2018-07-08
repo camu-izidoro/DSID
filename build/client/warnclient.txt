@@ -12,7 +12,7 @@ missing module named 'java.lang' - imported by platform, C:\Users\camil\Desktop\
 missing module named vms_lib - imported by platform, C:\Users\camil\Desktop\Trabalho DSID\client.py
 missing module named termios - imported by tty, C:\Users\camil\Desktop\Trabalho DSID\client.py, getpass
 missing module named grp - imported by shutil, tarfile, C:\Users\camil\Desktop\Trabalho DSID\client.py
-missing module named 'org.python' - imported by copy, C:\Users\camil\Desktop\Trabalho DSID\client.py, xml.sax
 missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\Users\camil\Desktop\Trabalho DSID\client.py, netrc, getpass
 missing module named _dummy_threading - imported by dummy_threading, C:\Users\camil\Desktop\Trabalho DSID\client.py
+missing module named 'org.python' - imported by copy, C:\Users\camil\Desktop\Trabalho DSID\client.py, xml.sax
 missing module named fcntl - imported by xmlrpc.server
